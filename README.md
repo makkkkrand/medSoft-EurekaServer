@@ -1,2 +1,0 @@
-# medSoft-EurekaServer
-medSoft-EurekaServer
